@@ -1,0 +1,86 @@
+body {
+  align-items: center;
+  background-color: #f4f4f4;
+  display: flex;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+}
+
+.container {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  display: flex;
+  height: 40%;
+  max-width: 900px;
+  width: 80%;
+}
+
+.container .form-container {
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 50%;
+}
+
+#signup-container {
+  background-color: #007bff;
+}
+
+.container .form-container .form-header {
+  margin-bottom: 20px;
+}
+
+.container .form-container .form-header h2 {
+  color: #555;
+  margin: 0;
+  text-align: center;
+}
+
+#sign-head {
+  color: white;
+  margin: 0;
+}
+
+.form-container form .form-group {
+  margin-bottom: 15px;
+}
+
+.form-container form label {
+  color: #555;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-container form .form-group input[type="email"],
+input[type="password"] {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  width: 80%;
+}
+
+.form-container form .form-group input[type="email"]:focus {
+  border: 3px solid blue;
+}
+
+.form-container form .form-group input[type="password"]:focus {
+  border: 3px solid blue;
+}
+
+.form-container form .btn {
+  background: #007bff;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px;
+  width: 40%;
+}
+
+#signup-button {
+  background: white;
+  color: #007bff;
+}

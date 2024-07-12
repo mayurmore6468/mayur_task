@@ -1,0 +1,67 @@
+body {
+    align-items: center;
+    background-color: #f4f4f4;
+    display: flex;
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    justify-content: center;
+    margin: 0;
+}
+.contact-container {
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    padding: 20px;
+    width: 60%;
+}
+.contact-container h1 {
+    color: #333;
+    text-align: center;
+}
+.contact-container form {
+    display: flex;
+    flex-direction: column;
+   margin-top: 20px;
+    width: 80%;
+}
+.contact-container form label {
+    color: #333;
+    margin-top: 10px;
+}
+.contact-container form input,
+button {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 10px;           
+}
+.contact-container form input[type="file"] {
+    padding: 3px;
+}
+.contact-container form button {
+    border: none;
+    border-radius: 15px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    width: 50%;
+    margin-top: 20px;
+    width: 100px;
+}
+.contact-container form button:hover {
+    background-color: #555;
+}
+.contact-container form .required {
+    color: red;
+    margin-left: 5px;
+}
+.second-container {
+    margin-left: 5%;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
