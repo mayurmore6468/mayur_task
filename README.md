@@ -1,7 +1,4 @@
 
-# Note : 
- 'database' file that has been exported is kept in databse folder of this same directory.
-
 # Database Structure :
  * Folder Name: 'wp_task'
  * Name of the database:  'task_db'  
@@ -60,3 +57,15 @@
 9) contact.php
  This file contains data & fetched to admin_tasks file in table format
 
+## Contact
+
+Feel free to reach out with any questions or suggestions:
+
+- **Email**: your-mayurmore6468@gmail.com
+- **GitHub**: [mayurmore6468](https://github.com/mayurmore6468)
+
+Thank you for checking out the web App!
+
+
+# Note : 
+ 'database' file that has been exported is kept in databse folder of this same directory.
