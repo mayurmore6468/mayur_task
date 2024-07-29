@@ -61,7 +61,7 @@
 
 Feel free to reach out with any questions or suggestions:
 
-- **Email**: your-mayurmore6468@gmail.com
+- **Email**: mayurmore6468@gmail.com
 - **GitHub**: [mayurmore6468](https://github.com/mayurmore6468)
 
 Thank you for checking out the web App!
